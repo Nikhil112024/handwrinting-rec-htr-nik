@@ -31,4 +31,53 @@ Deciphering Handwriting Sentences To Images is an advanced **Handwritten Text Re
 - **Git & GitHub** (Version Control)
 
 ---
+## **📂 Project Structure**
+```
+📦 Deciphering-Handwriting-Sentences-To-Images
+│── data/                         # Sample data, images, and dictionary
+│── htr_pipeline/                 # Core handwritten text recognition pipeline
+│   │── models/                   # Pre-trained ONNX models (YOLO & RNN-CTC)
+│   │── word_detector/            # Text detection module
+│   │── reader/                   # Text recognition module
+│── scripts/                      # Execution scripts
+│   │── demo.py                   # Run the recognition pipeline
+│   │── gradio_demo.py             # Web-based interface demo
+│── README.md                     # Project documentation
+│── requirements.txt               # Dependencies
+│── setup.py                       # Python package setup
+│── .gitignore                     # Git ignore file
+```
+
+---
+
+## **🖥️ Installation & Setup**
+### **Step 1: Clone the Repository**
+```bash
+git clone https://github.com/Nikhil112024/Deciphering-Handwriting-Sentences-To-Images.git
+cd Deciphering-Handwriting-Sentences-To-Images
+```
+
+### **Step 2: Create and Activate a Virtual Environment**
+```bash
+python -m venv venv
+source venv/bin/activate  # For Linux/Mac
+venv\Scripts\activate  # For Windows
+```
+
+### **Step 3: Install Dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+### **Step 4: Run the Demo**
+- **For Image Input Recognition:**
+```bash
+python scripts/demo.py
+```
+- **For Web-based Demo:**
+```bash
+python scripts/gradio_demo.py
+```
+
+---
 
