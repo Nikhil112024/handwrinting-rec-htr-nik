@@ -80,4 +80,33 @@ python scripts/gradio_demo.py
 ```
 
 ---
+## **📊 Performance Metrics**
+- **Character Error Rate (CER):** ~2.5%
+- **Word Error Rate (WER):** ~4.1%
+- **Latency:** ~50ms per image (ONNX inference)
+
+---
+
+## **🔧 Future Improvements**
+- [ ] Implement **Transformer-based OCR (TrOCR)** for improved accuracy.
+- [ ] Develop a **mobile app** for real-time recognition.
+- [ ] Extend **multilingual support** for non-English handwritten text.
+- [ ] Deploy an **API for third-party integration**.
+
+---
+
+## **📜 License**
+This project is licensed under the **MIT License**.
+
+---
+
+## **📬 Contact**
+For questions or collaborations, connect with me:
+- 📧 **Email:** [nikhilkumarjuyal777@gmail.com](mailto:nikhilkumarjuyal777@gmail.com)
+- 💼 **LinkedIn:** [Nikhil Kumar](https://linkedin.com/in/nikhil-kumar-8054042b2/)
+- 🖥️ **GitHub:** [Nikhil112024](https://github.com/Nikhil112024)
+
+---
+
+⭐ **If you like this project, don't forget to give it a star!** ⭐
 
