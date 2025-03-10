@@ -108,5 +108,4 @@ For questions or collaborations, connect with me:
 
 ---
 
-⭐ **If you like this project, don't forget to give it a star!** ⭐
 
