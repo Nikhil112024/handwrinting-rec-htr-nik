@@ -95,11 +95,6 @@ python scripts/gradio_demo.py
 
 ---
 
-## **📜 License**
-This project is licensed under the **MIT License**.
-
----
-
 ## **📬 Contact**
 For questions or collaborations, connect with me:
 - 📧 **Email:** [nikhilkumarjuyal777@gmail.com](mailto:nikhilkumarjuyal777@gmail.com)
